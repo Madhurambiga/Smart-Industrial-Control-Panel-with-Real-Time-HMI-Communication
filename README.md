@@ -1,0 +1,1 @@
+# Smart-Industrial-Control-Panel-with-Real-Time-HMI-Communication
