@@ -1,0 +1,24 @@
+
+### Touchscreen-Based Control
+
+Provides a modern graphical interface for user interaction.
+
+### UART Communication
+
+Reliable serial communication between HMI and controller.
+
+### Event-Driven Processing
+
+Real-time detection and processing of touch events.
+
+### Device Control
+
+Enables switching and control of external devices.
+
+### Expandable Architecture
+
+Supports integration of relays, motors, sensors, pumps, and industrial equipment.
+
+### Industrial Automation Ready
+
+Suitable for production environments and machine control systems.
